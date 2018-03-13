@@ -1,8 +1,108 @@
-/*
-Colors:
+body{
+  font-family: "proxima-nova";
+  font-family: sans-serif;
+  margin: 0px;
 
-Text: 1A1A1A
-Green: #00B172
-White: #FFF
+}
 
-*/
+.menu {
+  text-align: right;
+  font-size: 18px;
+  color: black;
+  padding: 20px;
+}
+
+.menu a {
+  color: inherit;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.imgtop {
+  width: 100%;
+}
+
+.icon {
+  margin: 20px;
+}
+
+.icon img{
+  width: 100px;
+}
+.icon h3{
+color: #1AB26B;
+text-align: center;
+}
+
+.icon h2{
+  text-align: center;
+}
+
+.icon h5{
+  width: 210px;
+  text-align: center;
+}
+
+.yeezy {
+  background-color: #1AB26B;
+  padding: 30px;
+  margin: 20px;
+}
+.yeezy h2{
+  color: white;
+  width: 380px
+}
+
+.yeezy h3{
+  color: white;
+  width: 380px
+}
+.yeezy h5{
+  color: white;
+  width: 380px
+}
+
+.app{
+  width: 259px;
+  align-content: right;
+}
+
+.icon-white{
+  width: 100px;
+  align-content: center;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: lighter;
+  text-align: center;
+  color: white;
+}
+
+h5 {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.logo {
+  padding-top: 13px;
+  padding-left: 30px;
+  width: 167px;
+}
